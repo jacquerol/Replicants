@@ -1,0 +1,6 @@
+{
+  "item.tutorialmod.amathyst" : "Amathyst",
+  "block.tutorialmod.amathyst_ore" : "Amathyst ore",
+  "itemGroup.tutorialModTab" : "Tutorial Mod",
+  "entity.tutorialmod.android" : "Android"
+}
